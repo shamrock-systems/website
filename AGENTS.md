@@ -2,7 +2,7 @@
 
 ## Deployment
 
-- CI workflow (`.github/workflows/jekyll-gh-pages.yml`) runs Jekyll unnecessarily — the site is plain HTML/CSS/JS with no Jekyll dependency. Deployment would be faster by switching to `peaceiris/actions-gh-pages` or deploying from branch directly.
+- GitHub Pages deploys from `main` branch / root (no action workflow).
 - The `favicon.ico` is a copy of `logo.png` — update both when changing the logo.
 
 ## Local dev

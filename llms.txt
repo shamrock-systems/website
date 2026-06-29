@@ -1,0 +1,16 @@
+# Shamrock
+
+Shamrock is a Discord-to-Roblox management integration platform. It provides secure account linking, automated verification systems, and administrative tools for cross-platform community management.
+
+## Pages
+
+- [Home](https://shamrock-systems.github.io/website/) — Overview, feature cards, tech stack
+- [Features](https://shamrock-systems.github.io/website/features.html) — Detailed feature breakdown: account linking, verification, admin tools, performance
+- [Roadmap](https://shamrock-systems.github.io/website/roadmap.html) — Development phases from core integration through stable release
+- [About](https://shamrock-systems.github.io/website/about.html) — Project status, license (Proprietary), tech stack (Discord.js, Roblox API, Node.js), contact via Discord
+
+## Tech Stack
+
+- Vanilla HTML/CSS/JS, no build tools
+- Inter font family
+- Deployed via GitHub Pages from the main branch
