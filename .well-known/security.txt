@@ -10,5 +10,14 @@ Preferred-Languages: en
 Canonical: https://shamrock-systems.github.io/website/.well-known/security.txt
 Policy: https://shamrock-systems.github.io/website/.well-known/security.txt
 -----BEGIN PGP SIGNATURE-----
-
+xjMEac6KxRYJKwYBBAHaRw8BAQdAIDa9qha8GtE0rkZwtTaQFJOiF1s2uzaK9ODz
+GmI3wPHNI05ldEJ5dGUgPG5ldGJ5dGV3YXN0YWtlbkBwcm90b24ubWU+wpMEExYK
+ADsCGwMFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AWIQSzoS7x1qVXAbHLJ/C5
+z/RePdnzswUCac6KzwAKCRC5z/RePdnzs3fpAQCIxmBoI+7x1PhnDs9WWdS9oMZy
+7vcrxZhfxtUh98fKUwD7Ba+Qu2bsrCtMWWlINfSTG4zfjr9jWAmVgDBcxfUpmgnO
+OARpzorFEgorBgEEAZdVAQUBAQdAYWj5+YpmCQ6zfdT2BwqYS0tBczbp+X3E03Ed
+a2oJgUgDAQgHwngEGBYKACACGwwWIQSzoS7x1qVXAbHLJ/C5z/RePdnzswUCac6K
+zwAKCRC5z/RePdnzs3noAQDOOqMSwEZQjhNoLssWGWkR0/0RxsOyWXBR0EsD4GYx
+tgD8Dbaesbd7im6+7whqQ87124vXvVCSyGHqSW/C+V7UMwc=
+=N1HY
 -----END PGP SIGNATURE-----
