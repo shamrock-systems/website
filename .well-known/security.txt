@@ -1,0 +1,14 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+# Security Policy
+# https://shamrock-systems.github.io/website/.well-known/security.txt
+
+Contact: mailto:netbytewastaken@proton.me
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/B3A12EF1D6A55701B1CB27F0B9CFF45E3DD9F3B3
+Preferred-Languages: en
+Canonical: https://shamrock-systems.github.io/website/.well-known/security.txt
+Policy: https://shamrock-systems.github.io/website/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+-----END PGP SIGNATURE-----
